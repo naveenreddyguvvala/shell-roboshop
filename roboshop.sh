@@ -44,13 +44,3 @@ do
     '
 done
 
-
-
-
-
-
-
-
-#INSTANCE_TYPE="t3.micro"
-#VPC_ID="vpc-0cadd122ab0d8f653" # Replace with your VPC ID
-#SUBNET_ID="subnet-00830bfb3cc7d5d57" # Replace with your subnet ID
